@@ -29,9 +29,12 @@ file.
 
 * Key bindings
 
-| Key Binding | Description    |
-|-------------+----------------|
-| ~M-x~       | Does thing01   |
+| Key Binding | Description                        |
+|-------------+------------------------------------|
+| ~M-x~       | Opens normal M-x menu              |
+| ~C-s~       | Search (works best with swiper)    |
+| ~C-M-s~     | Search All (all buffers w/ swiper) |
+|             |                                    |
 
 # Use GitHub URLs if you wish to link a Spacemacs documentation file or its heading.
 # Examples:
