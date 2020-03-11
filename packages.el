@@ -5,7 +5,9 @@
 ;; Author: bryan mccoid <bryan.mccoid@gmail.com>
 ;; URL: https://github.com/bryandmc/ivy-posframe-layer
 ;;
-;; This file is not part of GNU Emacs.
+;; This file is not part of GNU Emacs. This package/layer is just to provide ivy-posframe
+;; window in the center of the screen instead of the traditional ivy/helm bottom of the
+;; screen thing..
 ;;
 ;;; License: MIT
 
