@@ -16,13 +16,11 @@
 - [[#key-bindings][Key bindings]]
 
 * Description
-This layer adds support for something.
+This layer adds support for ivy-posframe inside spacemacs. It's just a dumb wrapper that's hardcoded with my preferred config of ivy-posframe
 
 ** Features:
-  - Autocomplete
-  - Lint
-  - Refactor
-  - ...
+  - ivy-posframe to create a centered ivy commandline
+
 
 * Install
 To use this configuration layer, add it to your =~/.spacemacs=. You will need to
@@ -33,7 +31,7 @@ file.
 
 | Key Binding | Description    |
 |-------------+----------------|
-| ~SPC x x x~ | Does thing01   |
+| ~M-x~       | Does thing01   |
 
 # Use GitHub URLs if you wish to link a Spacemacs documentation file or its heading.
 # Examples:
